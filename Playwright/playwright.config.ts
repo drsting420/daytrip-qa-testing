@@ -18,7 +18,7 @@ export default defineConfig({
 
   use: {
     baseURL: 'https://www.daytrip.com',
-    headless: false,
+    headless: !!process.env.CI,
     viewport: { width: 1920, height: 1080 },
     screenshot: 'only-on-failure',
     video: 'retain-on-failure',
