@@ -1,6 +1,8 @@
 # Daytrip.com — Full QA Testing Cycle
 
-> \*\*Portfolio Project\*\* | QA Engineer: Pavel Gribovskiy | 2026
+![Playwright Tests](https://github.com/drsting420/daytrip-qa-testing/actions/workflows/ci.yml/badge.svg)
+
+> **Portfolio Project** | QA Engineer: Pavel Gribovskiy | 2026
 
 A complete end-to-end QA testing project for [daytrip.com](https://www.daytrip.com) — a global marketplace for private car transfers and day trips operating in 120+ countries.
 
